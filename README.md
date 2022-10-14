@@ -1,6 +1,6 @@
 # About
 
-Easy Money is a trading/investing social media app that allows you to track your investments and comment on other people's trades.
+Easy Money is a Trading/Investing social media app that allows you to track your investments and comment on other people's trades.
 
 # Install
 
